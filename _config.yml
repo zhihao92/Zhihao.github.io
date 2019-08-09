@@ -1,0 +1,62 @@
+# Site
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. zhihao92/modern-resume-theme)
+# favicon: images/favicon.ico
+
+# Personal info
+name: Zhihao Li
+title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences.
+
+
+email: lizhihao.cs@gmail.com
+# phone: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China
+# website: https://www.researchgate.net/profile/Zhihao_Li3
+
+# Social links
+twitter_username: Gracias19159123
+# github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+about_title: <b>Brief Bio</b>
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Zhihao Li is a Ph.D. candidate at the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (SKL, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS). He is supervised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Prof. Yunquan Zhang</a>. Besides, he is a joint Ph.D. student at the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering, Georgia Institute of Technology</a>, supervised by <a href="http://vuduc.org/v2/" target="_blank">Prof. Richard Vuduc</a>.
+
+  <b>Research Interests</b>: High Performance Computing, Optimized FFT Library, and GPGPU.
+
+  <b>Expected Graduation Date</b>: June 2021
+
+
+
+# Projects Section
+projects_title: <b>Projects</b>
+
+# Experience Section
+experience_title: <b>Publications</b>
+
+# Education Section
+education_title: <b>Awards</b> #(Use this to override about education section title)
+
+
+more_title: <br>  #(Use this to override about more section title)
+
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: zhihao92/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

@@ -1,0 +1,8 @@
+@inproceedings{li2017hartsift,
+  title={HartSift: A High-Accuracy and Real-Time SIFT Based on GPU},
+  author={Li, Zhihao and Jia, Haipeng and Zhang, Yunquan},
+  booktitle={2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)},
+  pages={135--142},
+  year={2017},
+  organization={IEEE}
+}

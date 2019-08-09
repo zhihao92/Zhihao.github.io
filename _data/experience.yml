@@ -1,0 +1,80 @@
+
+- layout: left
+  name: |
+  
+    <html>
+    <head>
+    <title>Font Awesome Icons</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    
+    <body>
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=_68p80QAAAAJ" target="_blank" > <i class="large material-icons" style="font-size:50px;">school</i><br>Google Scholar</a>
+    
+    </body>
+    </html>
+    
+  
+  # link: <a href="https://zhihao92.github.io/zhihao.github.io/">Homepage</a><br>
+  # github:     zhihao92/zhihao.github.io
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    <p>
+    <b>1. Efficient Parallel Optimizations of a High-Performance SIFT on GPUs</b>    <br> 
+    <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+    <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, Hao Zhang</span> <br> 
+    
+    <em style="font-size:14px; color:#757575;"><b>Journal of Parallel and Distributed Computing (JPDC)</b>, <time>2019.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF B; SCI)</strong></span><br>
+    
+    <a href="/publications/JPDC SIFT.pdf">[paper]</a>
+    <a href="/publications/JPDC SIFT bib.txt">[bib]</a> <br>
+    </p>    
+    
+    <p>
+    <b>2. HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>    <br> 
+    <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+    <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
+    
+    <em style="font-size:14px; color:#757575;"><b> IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)</b>, <time>2017.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF C; EI)</strong></span><br>
+    
+    <a href="/publications/ICPADS SIFT.pdf">[paper]</a>
+    <a href="/publications/ICPADS SIFT bib.txt">[bib]</a> <br>
+    </p>
+  
+    <p>
+    <b>3. Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform</b>    <br> 
+    <span style="font-size:14px;color:#9E9E9E;">Xiao Wang, Haipeng Jia,</span>
+    <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+    <span style="font-size:14px;color:#9E9E9E;">Yunquan Zhang</span> <br> 
+    
+    <em style="font-size:14px; color:#757575;"><b> International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</b>, <time>2018.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF C; EI)</strong></span><br>
+    
+    <a href="/publications/ICA3PP.pdf">[paper]</a>
+    <a href="/publications/ICA3PP bib.txt">[bib]</a> <br>
+    </p>
+  
+    <p>
+    <b>4. Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    <br> 
+    <span style="font-size:14px;color:#9E9E9E;">Tun Chen,</span>
+    <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+    <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
+    
+    <em style="font-size:14px; color:#757575;"><b> Chinese Journal of Computer (In Chinese)</b>, <time>2018.</time> </em><span style="font-size:14px;color:#757575;"><strong>(EI)</strong></span><br>
+    
+    <a href="/publications/cjc chentun.pdf">[paper]</a>
+    </p>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

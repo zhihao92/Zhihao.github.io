@@ -1,0 +1,8 @@
+@inproceedings{wang2018implementation,
+  title={Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform},
+  author={Wang, Xiao and Jia, Haipeng and Li, Zhihao and Zhang, Yunquan},
+  booktitle={International Conference on Algorithms and Architectures for Parallel Processing},
+  pages={338--353},
+  year={2018},
+  organization={Springer}
+}
