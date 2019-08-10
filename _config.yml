@@ -52,7 +52,7 @@ more_title: <br>  #(Use this to override about more section title)
 footer_show_references: false
 
 # Build settings
-remote_theme: zhihao92/modern-resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
