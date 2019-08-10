@@ -1,7 +1,7 @@
 # Site
 # repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. zhihao92/modern-resume-theme)
-# favicon: images/favicon.ico
-
+favicon: images/head.ico
+ 
 # Personal info
 name: Zhihao Li
 title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences.
