@@ -22,7 +22,15 @@
     # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     <p>
-    <b>1. Efficient Parallel Optimizations of a High-Performance SIFT on GPUs</b>    <br> 
+    <b>1. AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs</b>    <br> 
+    <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+    <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, Xiao Wang</span> <br> 
+    
+    <em style="font-size:14px; color:#757575;"><b>ACM/IEEE International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC)</b>, <time>2019.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A; Accepted)</strong></span><br>
+    </p>     
+    
+    <p>
+    <b>2. Efficient Parallel Optimizations of a High-Performance SIFT on GPUs</b>    <br> 
     <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
     <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, Hao Zhang</span> <br> 
     
@@ -33,7 +41,7 @@
     </p>    
     
     <p>
-    <b>2. HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>    <br> 
+    <b>3. HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>    <br> 
     <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
     <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
     
@@ -44,7 +52,7 @@
     </p>
   
     <p>
-    <b>3. Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform</b>    <br> 
+    <b>4. Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform</b>    <br> 
     <span style="font-size:14px;color:#9E9E9E;">Xiao Wang, Haipeng Jia,</span>
     <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
     <span style="font-size:14px;color:#9E9E9E;">Yunquan Zhang</span> <br> 
@@ -56,7 +64,7 @@
     </p>
   
     <p>
-    <b>4. Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    <br> 
+    <b>5. Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    <br> 
     <span style="font-size:14px;color:#9E9E9E;">Tun Chen,</span>
     <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
     <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
