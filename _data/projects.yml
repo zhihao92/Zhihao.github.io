@@ -11,8 +11,8 @@
     
     <ul>
       <li>Faster than FFTW, ARMPL, and Intel MKL, especially for non-power-of-two radices;</li>
-      <li>Propose a template-based framework to autogenerate FFT kernels of radices of all nature numbers;</li>
-      <li>Specifically optimize <b>radix-2/3/4/5/6/7/8/9/11/12/13</b> kernels for ARMv8 and X86-64 CPUs, sizes of the form 2<sup>a</sup>3<sup>b</sup>5<sup>c</sup>7<sup>d</sup>11<sup>e</sup>13<sup>f</sup> are much faster than other sizes;</li>
+      <li>Propose a template-based framework to autogenerate FFT kernels of radices of all natural numbers;</li>
+      <li>Particularly optimize <b>radix-2/3/4/5/6/7/8/9/11/12/13</b> kernels for ARMv8 and X86-64 CPUs, sizes of the form 2<sup>a</sup>3<sup>b</sup>5<sup>c</sup>7<sup>d</sup>11<sup>e</sup>13<sup>f</sup> are much faster than other sizes;</li>
       <li>Realize O(nlogn) algorithms for arbitrary input sizes of complex/real data, including prime sizes;</li>
       <li>AutoFFT is positioned as an open-source project.</li>
     </ul>  
@@ -31,7 +31,7 @@
     <ul>
       <li>HartSift is 55.88~121.99 times, 5.17~6.88 times, and 1.25~1.79 times  faster than OpenCV SIFT, SiftGPU, and CudaSift respectively;</li>
       <li>Propose two efficient optimizations (rebalancing workloads and multi-granularity parallelism) to address load imbalance among threads (inter-warp workload imbalance and intra-warp workload imbalance) when porting SIFT to GPUs;</li>
-      <li>Introduce two high-performance histogram algorithms based on GPUs (the warp-based histogram algorithm and the atomic-free histogram algorithm) to rapidly accumulate information of different scales of samples.</li>
+      <li>Introduce two high-performance histogram algorithms based on GPUs (the warp-based histogram algorithm and the atomic-free histogram algorithm) to rapidly accumulate information on different scales of samples.</li>
     </ul>  
     
     
