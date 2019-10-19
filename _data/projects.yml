@@ -29,7 +29,7 @@
     <b>HartSift is an efficient SIFT implementation on GPUs. It realizes high-performance feature extraction by making full use of computing resources of CPUs and GPUs</b>
     
     <ul>
-      <li>Propose a three-level(thread-warp/wavefront-block) parallel framework to achieve load balancing;</li>
+      <li>Propose a three-level (thread-warp-block) parallel framework to achieve load balancing;</li>
       <li>HartSift is 55.88~121.99 times, 5.17~6.88 times, and 1.25~1.79 times  faster than OpenCV SIFT, SiftGPU, and CudaSift respectively;</li>
       <li>Propose two efficient optimizations (rebalancing workloads and multi-granularity parallelism) to address load imbalance among threads (inter-warp workload imbalance and intra-warp workload imbalance) when porting SIFT to GPUs;</li>
       <li>Introduce two high-performance histogram algorithms based on GPUs (the warp-based histogram algorithm and the atomic-free histogram algorithm) to rapidly accumulate information on different scales of samples.</li>
