@@ -7,7 +7,7 @@
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>AutoFFT: a high-performance FFT library for multiple computing platforms</b>
+    <b>AutoFFT: a high-performance FFT library for ARM and x86 CPUs</b>
     
     <ul>
       <li>Propose a template-based expression of optimized FFT butterflies;</li>
