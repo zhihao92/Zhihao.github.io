@@ -65,6 +65,19 @@
       </li>
       
       <li>      
+        <b>Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    
+        <br>           
+            
+            <span style="font-size:14px;color:#9E9E9E;">Tun Chen,</span>
+            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li<sup>*</sup></strong>,</span>
+            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
+            
+            <em style="font-size:14px; color:#757575;"><b> Chinese Journal of Computer (In Chinese)</b>, <time>2018.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A, EI)</strong></span><br>
+            
+            <a href="http://cjc.ict.ac.cn/online/bfpub/ARM-2019110114930.pdf" target="_blank">[paper]</a>
+      </li>
+      
+      <li>      
         <b>Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform</b>    
         <br>           
             <span style="font-size:14px;color:#9E9E9E;">Xiao Wang, Haipeng Jia,</span>
@@ -79,18 +92,6 @@
         <br>
       </li>
       
-      <li>      
-        <b>Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    
-        <br>           
-            
-            <span style="font-size:14px;color:#9E9E9E;">Tun Chen,</span>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
-            
-            <em style="font-size:14px; color:#757575;"><b> Chinese Journal of Computer (In Chinese)</b>, <time>2018.</time> </em><span style="font-size:14px;color:#757575;"><strong>(EI)</strong></span><br>
-            
-            <a href="http://cjc.ict.ac.cn/online/bfpub/ARM-2019110114930.pdf" target="_blank">[paper]</a>
-      </li>
     </ul>
   
     
