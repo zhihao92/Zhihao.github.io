@@ -1,0 +1,8 @@
+@inproceedings{li2019autofft,
+  title={AutoFFT: a template-based FFT codes auto-generation framework for ARM and X86 CPUs},
+  author={Li, Zhihao and Jia, Haipeng and Zhang, Yunquan and Chen, Tun and Yuan, Liang and Cao, Luning and Wang, Xiao},
+  booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={25},
+  year={2019},
+  organization={ACM}
+}

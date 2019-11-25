@@ -4,7 +4,7 @@ favicon: images/head.ico
  
 # Personal info
 name: Zhihao Li
-title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Present).
+title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2017 - Present).
 
 
 email: lizhihao.cs@gmail.com
@@ -27,7 +27,7 @@ twitter_username: Gracias19159123
 about_title: <b>Brief Bio</b>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate at the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (SKL, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS), supervised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Prof. Yunquan Zhang</a>. Besides, I am a joint Ph.D. student at the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering, Georgia Institute of Technology</a>, supervised by <a href="http://vuduc.org/v2/" target="_blank">Prof. Richard Vuduc</a>.
+  I am a Ph.D. candidate at the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (SKL, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS), supervised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Prof. Yunquan Zhang</a>. Besides, I am also a joint Ph.D. student at the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering, Georgia Institute of Technology</a>, supervised by <a href="http://vuduc.org/v2/" target="_blank">Prof. Richard Vuduc</a>.
 
   <b>Research Interests</b>: High Performance Computing, Optimized FFT Library, and GPGPU.
 
