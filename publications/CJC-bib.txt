@@ -1,0 +1,8 @@
+@article{陈暾2019基于,
+  title={基于 ARMv8 平台的多维 FFT 实现与优化研究},
+  author={陈暾 and 李志豪 and 贾海鹏 and 张云泉},
+  journal={计算机学报},
+  number={11},
+  pages={3},
+  year={2019}
+}
