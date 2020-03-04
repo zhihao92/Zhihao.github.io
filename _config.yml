@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <b>Expected Graduation Date</b>: 2021 (Seeking full-time HPC-related researcher opportunity)
   
-  <p>For more information, please click here for my <a href="https://zhihao92.github.io/zhihao.github.io/pdfs/CV.pdf" target="_blank">Curriculum Vitae</a>.</p>.
+  <p>For more information, please click here for my <a href="https://zhihao92.github.io/zhihao.github.io/pdfs/CV.pdf" target="_blank">Curriculum Vitae</a>.</p>
 
 
 # Projects Section
@@ -45,7 +45,7 @@ projects_title: <b>PROJECTS</b>
 experience_title: <b>PUBLICATIONS</b>
 
 # Education Section
-education_title: <b>HONORS and REWARDS</b> #(Use this to override about education section title)
+education_title: <b>HONORS</b> #(Use this to override about education section title)
 
 
 more_title: <b></b>  #(Use this to override about more section title)
