@@ -6,6 +6,8 @@ favicon: images/head.ico
 name: Zhihao Li
 title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Now).
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zhihao92.github.io/zhihao.github.io/" # the base hostname & protocol for your site
 
 email: lizhihao.cs@gmail.com
 # phone: No.6 Zhong Guan Cun Ke Xue Yuan South Road, Haidian District, Beijing, China
@@ -34,6 +36,12 @@ about_content: | # this will include new lines to allow paragraphs
   <b>Expected Graduation Date</b>: 2021 (Seeking full-time HPC-related researcher opportunity)
   
   For more information, please click here for my <a href="https://drive.google.com/open?id=1qtxSuVSJiLnCWaLX7q_m4z21bynrxtvo" target="_blank">Curriculum Vitae</a> .
+
+  For more information, please click here for my <a href="https://github.com/zhihao92/zhihao.github.io/raw/master/pdfs/CV.pdf">Test PDF</a>
+
+  <p>For more information, please click here for the <strong><a href="{{site.baseurl}}/pdfs/CV.pdf">Curriculum Vitae</a></strong></p>
+  
+  <p>For more information, please click here for the <strong><a href="https://github.com/zhihao92/zhihao.github.io/raw/master/pdfs/CV.pdf">Curriculum Vitae</a></strong></p>
 
 
 
