@@ -1,70 +1,93 @@
 
 - layout: left
   name: AutoFFT    
-  job_title: Current Project  <br>  Creator & Maintainer
-  dates: Aug. 2017 - Present
+  job_title: Creator
+  dates: 2018 - 2019
   # quote: >
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>AutoFFT: a high-performance FFT library for ARM and x86 CPUs</b>
+    <b>AutoFFT: A Template-Based FFT Kernel Generation Framework</b>
+    <br>
+    Facing the challenges such as the increasing complexity and diversity of computer architectures, difficulties in implementing assembly FFT kernels and performance tuning, AutoFFT makes full use of the experience of the domain and optimization experts to automatically generate extremely high-performance FFT code of radices of all natural numbers for ARM, Intel, and AMD processors. AutoFFT thus not only substantially reduces the laborious work of developing assembly FFT kernels manually but also obtains high performance. 
     
     <ul>
-      <li>Propose a template-based expression of optimized FFT butterflies;</li>
-      <li>Propose a high-performance FFT code generation framework to autogenerate FFT kernels of natural-number radices;</li>
-      <li>Generated assembly FFT code runs stably and efficiently on Intel, Phytium, Hygon, and Huawei Hisilicon's processors;</li>     
-      <li>Faster than state-of-the-art FFT libraries, FFTW, ARMPL, and Intel MKL, on different platforms;</li>
-      <li>Have depolyed on Tianhe series supercomputers, such as Tianhe-2, and Huawei Hisilicon servers.</li>
+      <li>AutoFFT is the first work that systematically summarizes and extracts the integral and general mathematical expressions (the pair and quad patterns) of the symmetric and periodic properties of the DFT matrix. These algorithmic optimizations combines the like terms of the DFT matrix and minimize the amount of floating-point number operations of the FFT butterflies.</li>
+      <li>Based on the mathematical expressions, typical and common calculation patterns in the FFT computation are abstracted and defined as templates. These templates are the basis of the template-based framework. </li>
+      <li>AutoFFT is the first template-based auto-generation framework, which is able to automatically generate high-performance assembly FFT kernels based on the highly optimized pair and quad patterns for varying CPU architectures.</li>
+    </ul>  
+
+- layout: left
+  name: OpenFFT    
+  job_title: Current Project  <br>  Creator & Maintainer
+  dates: 2018 - Now
+  # quote: >
+    # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
+  description: | # this will include new lines to allow paragraphs
+  
+    <b>OpenFFT: A Cross-Platform and High-Performance FFT Library</b>
+    <br>
+    OpenFFT is a portable and high-performance FFT library based on the AutoFFT code generation framework. It can efficiently run on many computing platforms such as Intel, AMD, ARM, Phytium, Hygon and Huawei HiSilicon processors. OpenFFT outperforms the current state-of-the-art FFT libraries.
+    
+    <ul>
+      <li>OpenFFT generally outperforms the current state-of-the-art commercial and open-source FFT libraries on the aforementioned computing platforms. OpenFFT is averagely 2.14, 1.7, and 2.15 times faster than FFTW, Intel MKL, and ARMPL, respectively.</li>
+      <li>OpenFFT has been deployed on Tianhe-3 exascale-class supercomputer prototype. Besides, it can efficiently and stably run on Sugon exascale-class supercomputer prototype and Tianhe-2 supercomputer. Thus, OpenFFT is becoming an important part of the supercomputing ecosystem.</li>
+      <li>OpenFFT has been adopted in the Community Earth System Model (CESM) application with an average performance improvement of 12.3% on the FFT-relevant computing modules.</li>     
+      <li>OpenFFT has been deployed on Huawei ARM-based servers such as Taishan series servers, becoming an important part of the software ecosystem of Huawei Kirin and Kunpeng series processors.</li>
     </ul>  
 
 
 - layout: left
   name: HartSift    
   job_title: Creator
-  dates: Aug. 2016 - Sep. 2017
+  dates: 2017 - 2018
   # quote: >
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>HartSift is an efficient SIFT implementation on GPUs. It realizes high-performance feature extraction by making full use of computing resources of CPUs and GPUs</b>
+    <b>HartSift: A High-Performance SIFT Implementation on GPUs</b>
+    <br>
+    HartSift is an efficient SIFT implementation on heterogeneous systems (CPU+GPU). It proposes a multi-granularity (thread-warp-block) parallel framework, which constructs dynamic mappings between different granularities and different parallel tasks. HartSift solves the load imbalance with threads during the SIFT feature extraction and realizes real-time feature extraction by making full use of computing resources of CPUs and GPUs. 
     
     <ul>
-      <li>Propose a three-level (thread-warp-block) parallel framework to achieve load balancing;</li>
-      <li>HartSift is 55.88~121.99 times, 5.17~6.88 times, and 1.25~1.79 times  faster than OpenCV SIFT, SiftGPU, and CudaSift respectively;</li>
-      <li>Propose two efficient optimizations (rebalancing workloads and multi-granularity parallelism) to address load imbalance among threads (inter-warp workload imbalance and intra-warp workload imbalance) when porting SIFT to GPUs;</li>
-      <li>Introduce two high-performance histogram algorithms based on GPUs (the warp-based histogram algorithm and the atomic-free histogram algorithm) to rapidly accumulate information on different scales of samples.</li>
+      <li>The comprehensive performance of HartSift is superior to the current state-of-the-art SIFT implementations. HartSift is 55.88~121.99 times, 5.17~6.88 times, and 1.25~1.79 times faster than OpenCV SIFT, SiftGPU, and CudaSift respectively.</li>
+      <li>HartSift adopts two efficient optimizations (rebalancing workloads and multi-granularity parallelism) to address load imbalance among threads (inter-warp workload imbalance and intra-warp workload imbalance) when porting SIFT to GPUs.</li>
+      <li>HartSift introduces two high-performance histogram algorithms based on GPUs (the warp-based histogram algorithm and the atomic-free histogram algorithm) to efficiently accumulate information on different scales of samples.</li>
     </ul>  
     
     
 - layout: left
   name: OpenIPP    
   job_title: Creator
-  dates: June 2017 - Jan. 2018
+  dates: 2016 - 2017
   # quote: >
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>OpenIPP is a well-optimized software library of plenty of functions for multimedia and data processing applications on ARM CPUs</b>
+    <b>OpenIPP: A Well-Optimized Library for Multimedia and Data Processing Applications</b>
+    <br>
+    OpenIPP is a well-optimized software library of plenty of functions for multimedia and data processing applications on ARM CPUs. OpenIPP is an equivalent existence on ARM platforms to Intel IPP for diverse Intel processors.
     
     <ul>
-      <li>Support the same functions that provided by Intel IPP on Intel CPUs;</li>
-      <li>Take advantage of Single Instruction Multiple Data (SIMD) technique;</li>
-      <li>OpenIPP has been deployed on Huawei Hisilicon processors.</li>
+      <li>OpenIPP supports the same functions provided by Intel IPP.</li>
+      <li>OpenIPP takes advantage of Single Instruction Multiple Data (SIMD) technique of the ARMv8 architecture to accelerate the supported functions.</li>
+      <li>OpenIPP has been deployed on Huawei ARM-based processors such as Huawei Kirin and Kunpeng series processors.</li>
     </ul>  
 
     
 - layout: left
   name: PerfCV    
   job_title: Creator
-  dates: June 2015 - May 2016
+  dates: 2015 - 2016
   # quote: >
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>PerfCV is a cross-platform and high-performance basic algorithms library for computer vision and image processing</b>
+    <b>PerfCV: A Portable and Lightweight Computer Vision library</b>
+    <br>
+    PerfCV is a cross-platform and high-performance computer vision library that supports fundamental image algorithms such as Resize, Cvt_color, GaussianBlur, WarpAffine, WarpPerspective and so on. PerfCV is lighter and faster than OpenCV.
     
     <ul>
-      <li>Support basic image processing algorithms, such as Resize, Cvt_color, GaussianBlur, WarpAffine, WarpPerspective and so on;</li>
-      <li>Adopt SSE/AVX/NEON intrinsics to accelerate these algorithms on X86 and ARM CPU platforms. The CPU version of this library is 1.29~35.10 times faster than OpenCV;</li>
-      <li>Use CUDA to implement these algorithms on NVIDIA GPUs. The GPU version of this library is 1.27~2.17 times faster than OpenCV.</li>
+      <li>PerfCV adopts SSE/AVX/NEON intrinsics and Embedded assembly to SIMDize the aforementioned algorithms on x86 and arm CPUs. The CPU version of this library is 1.29~35.10 times faster than OpenCV.</li>
+      <li>PerfCV uses CUDA to implement and optimize the aforementioned algorithms on NVIDIA GPUs. The GPU version of this library is 1.27~2.17 times faster than OpenCV.</li>
     </ul>  
