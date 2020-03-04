@@ -39,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   For more information, please click here for my <a href="https://github.com/zhihao92/zhihao.github.io/raw/master/pdfs/CV.pdf">Test PDF</a>
 
-  <p>For more information, please click here for the <strong><a href="{{site.baseurl}}/pdfs/CV.pdf">Curriculum Vitae</a></strong></p>
+  <p>For more information, please click here for the <strong><a href="https://github.com/zhihao92/zhihao.github.io/pdfs/CV.pdf">Curriculum Vitae</a></strong></p>
   
   <p>For more information, please click here for the <strong><a href="https://github.com/zhihao92/zhihao.github.io/raw/master/pdfs/CV.pdf">Curriculum Vitae</a></strong></p>
 
