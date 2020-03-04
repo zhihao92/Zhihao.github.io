@@ -83,7 +83,7 @@
     # AutoFFT is a high-performance FFT library for ARM and X86 platforms.
   description: | # this will include new lines to allow paragraphs
   
-    <b>PerfCV: A Portable and Lightweight Computer Vision library</b>
+    <b>PerfCV: A Portable and Lightweight Computer Vision Library</b>
     <br>
     PerfCV is a cross-platform and high-performance computer vision library that supports fundamental image algorithms such as Resize, Cvt_color, GaussianBlur, WarpAffine, WarpPerspective and so on. PerfCV is lighter and faster than OpenCV.
     
