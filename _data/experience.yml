@@ -24,6 +24,18 @@
    
     <ul  style="list-style-type:square;">
       <li>      
+        <b>Automatic Generation of High-Performance FFT Kernels on Arm and x86 CPUs</b>
+        <br> 
+            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Richard Vuduc</span> 
+        <br> 
+            <em style="font-size:14px; color:#757575;"><b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>, <time>2020.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A; to appear)</strong></span>
+        <br>        
+   
+        <br>        
+      </li>
+      
+      <li>      
         <b>AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs</b>
         <br> 
             <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
@@ -54,21 +66,6 @@
       </li>
       
       <li>      
-        <b>HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>    
-        <br>             
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
-            
-            <em style="font-size:14px; color:#757575;"><b> IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)</b>, <time>2017.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF C)</strong></span>
-        <br>
-            
-            <a href="https://ieeexplore.ieee.org/abstract/document/8368358" target="_blank">[paper]</a>
-            <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/ICPADS-SIFT-bib.txt" target="_blank">[bib]</a> 
-        <br>  
-        <br>  
-      </li>
-      
-      <li>      
         <b>Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>    
         <br>           
             
@@ -96,6 +93,22 @@
             <a href="https://link.springer.com/chapter/10.1007/978-3-030-05054-2_27" target="_blank">[paper]</a>
             <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/ICA3PP-bib.txt" target="_blank">[bib]</a> 
         <br>
+        <br>
+      </li>
+      
+      <li>      
+        <b>HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>    
+        <br>             
+            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
+            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br> 
+            
+            <em style="font-size:14px; color:#757575;"><b> IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)</b>, <time>2017.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF C)</strong></span>
+        <br>
+            
+            <a href="https://ieeexplore.ieee.org/abstract/document/8368358" target="_blank">[paper]</a>
+            <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/ICPADS-SIFT-bib.txt" target="_blank">[bib]</a> 
+        <br>  
+        <br>  
       </li>
       
     </ul>
