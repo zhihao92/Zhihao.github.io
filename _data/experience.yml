@@ -24,7 +24,7 @@
    
     <ul  style="list-style-type:square;">
       <li>      
-        <b>Automatic Generation of High-Performance FFT Kernels on Arm and x86 CPUs</b>
+        <b>Automatic Generation of High-Performance FFT Kernels on Arm and X86 CPUs</b>
         <br> 
             <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
             <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Richard Vuduc</span> 
