@@ -27,13 +27,13 @@
   
     <b>OpenFFT: A Cross-Platform and High-Performance FFT Library</b>
     <br>
-    OpenFFT is a portable and high-performance FFT library based on the AutoFFT code generation framework. It can efficiently run on many computing platforms such as Intel, AMD, ARM, Phytium, Hygon, and Huawei HiSilicon processors. OpenFFT outperforms the current state-of-the-art FFT libraries.
+    OpenFFT is a portable and high-performance FFT library based on the AutoFFT code generation framework. It can efficiently run on many computing platforms such as ARM, Intel, AMD, Huawei Kunpeng, Phytium, and Hygon processors. OpenFFT is of great significance to the basic numerical software ecosystem construction of ARM's and AMD's processors.
     
     <ul>
       <li>OpenFFT generally outperforms the current state-of-the-art commercial and open-source FFT libraries on the aforementioned computing platforms. OpenFFT is averagely 2.14, 1.7, and 2.15 times faster than FFTW, Intel MKL, and ARMPL, respectively.</li>
-      <li>OpenFFT has been deployed on Tianhe-3 exascale-class supercomputer prototype. Besides, it can efficiently and stably run on Sugon exascale-class supercomputer prototype and Tianhe-2 supercomputer. Thus, OpenFFT is becoming an important part of the supercomputing ecosystem.</li>
+      <li>OpenFFT has been deployed on Tianhe-3 exascale-class supercomputer prototype. Besides, it can efficiently run on Sugon exascale-class supercomputer prototype and Tianhe-2 supercomputer. </li>
       <li>OpenFFT has been adopted in the Community Earth System Model (CESM) application with an average performance improvement of 12.3% on the FFT-relevant computing modules.</li>     
-      <li>OpenFFT has been deployed on Huawei ARM-based servers such as Taishan series servers, becoming an important part of the software ecosystem of Huawei Kirin and Kunpeng series processors.</li>
+      <li>OpenFFT has been deployed on Huawei ARM-based servers such as Taishan series servers.</li>
     </ul>  
 
 
