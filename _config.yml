@@ -4,8 +4,8 @@ favicon: images/head.ico
  
 # Personal info
 name: Zhihao Li
-# title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Now).
-title:
+title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Now).
+
 
 baseurl: /zhihao.github.io # the subpath of your site, e.g. /blog
 # url: "https://zhihao92.github.io/zhihao.github.io/" # the base hostname & protocol for your site
