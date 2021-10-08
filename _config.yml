@@ -1,10 +1,10 @@
 # Site https://sproogen.github.io/modern-resume-theme/
-# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. zhihao92/modern-resume-theme) 
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. zhihao92/modern-resume-theme)
 favicon: images/head.ico
- 
+
 # Personal info
 name: Zhihao Li
-title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Now).
+# title: A Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences (Sep. 2015 - Now).
 
 
 baseurl: /zhihao.github.io # the subpath of your site, e.g. /blog
@@ -30,12 +30,10 @@ linkedin_username: zhihaoli-cs
 about_title: <b>ABOUT ME</b>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Zhihao Li is a Ph.D. candidate at the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (CARCH, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS), supervised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Prof. Yunquan Zhang</a>. Besides, He was also a joint Ph.D. student in the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering at Georgia Institute of Technology</a>, supervised by <a href="http://vuduc.org/v2/" target="_blank">Prof. Richard Vuduc</a>. 
+  Zhihao Li is a Ph.D. candidate at the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (CARCH, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS), advised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Prof. Yunquan Zhang</a>. Besides, he was also a joint Ph.D. student in the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering at Georgia Institute of Technology</a>, advised by <a href="http://vuduc.org/v2/" target="_blank">Prof. Richard Vuduc</a>.
 
   <b>Research Interests</b>: High Performance Computing, Optimized FFT Library, Automatic Performance Tuning, and GPGPU.
 
-#  <b>Expected Graduation Date: 2021 </b>
-  
   <p>For more information, please click here for my <a href="https://zhihao92.github.io/zhihao.github.io/pdfs/CV.pdf" target="_blank">Curriculum Vitae</a>.</p>
 
 
