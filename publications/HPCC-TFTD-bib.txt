@@ -1,0 +1,8 @@
+@inproceedings{chen2021transpose,
+  title={A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs},
+  author={Chen, Tun and Jia, Haipeng and Li, Zhihao and Li, Chendi and Zhang, Yunquan},
+  booktitle={2021 IEEE 23rd Int Conf on High Performance Computing \& Communications; 7th Int Conf on Data Science \& Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud \& Big Data Systems \& Application (HPCC/DSS/SmartCity/DependSys)},
+  pages={1--8},
+  year={2021},
+  organization={IEEE}
+}
