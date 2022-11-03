@@ -30,8 +30,11 @@
             <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
             <span style="font-size:14px;color:#9E9E9E;">Yunquan Zhang</span> <br>
 
-            <em style="font-size:14px; color:#757575;"><b>International Conferences on High Performance Computing and Communications (HPCC)</b>, <time>2021.</time> </em><span style="font-size:14px;color:#757575;"><strong>(To appear)</strong></span>
+            <em style="font-size:14px; color:#757575;"><b>International Conferences on High Performance Computing and Communications (HPCC)</b>, <time>2021.</time> </em><span style="font-size:14px;color:#757575;"></span>
 
+        <br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9780864" target="_blank">[paper]</a>
+            <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/HPCC-TFTD-bib.txt" target="_blank">[bib]</a>
         <br>
         <br>
       </li>
