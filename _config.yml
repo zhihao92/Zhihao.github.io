@@ -32,7 +32,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Zhihao Li is a Principal Engineer in Huawei 2012 Labs, where he is responsible for the development and optimization of the math libraries, such as FFT, BLAS, and SparseBLAS, on Huawei ARM CPUs. He received his Ph.D. degree in Computer Science from the <a href="http://www.carch.ac.cn" target="_blank">State Key Laboratory of Computer Architecture</a>, <a href="http://www.ict.ac.cn/" target="_blank">Institute of Computing Technology, Chinese Academy of Sciences</a> (CARCH, ICT, CAS) and <a href="http://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a> (UCAS), and advised by <a href="http://sourcedb.ict.cas.cn/cn/jssrck/201308/t20130822_3917018.html" target="_blank">Professor Yunquan Zhang</a>. Besides, he was also a joint Ph.D. student in the <a href="https://www.cse.gatech.edu/" target="_blank">School of Computational Science and Engineering at Georgia Institute of Technology</a>, advised by <a href="http://vuduc.org/v2/" target="_blank">Professor Richard Vuduc</a>.
 
-  <b>Research Interests</b>: High Performance Computing, Optimized FFT Library, Automatic Performance Tuning, and GPGPU.
+  <b>Research Interests</b>: High Performance Computing, Optimized Math (FFT/BLAS/SpMV) Libraries, and Automatic Performance Tuning.
 
 # Projects Section
 projects_title: <b>PROJECTS</b>
@@ -41,7 +41,7 @@ projects_title: <b>PROJECTS</b>
 experience_title: <b>PUBLICATIONS</b>
 
 # Education Section
-education_title: <b>HONORS</b> #(Use this to override about education section title)
+education_title: <b>HONORS and ACTIVITIES</b> #(Use this to override about education section title)
 
 
 more_title: <b></b>  #(Use this to override about more section title)

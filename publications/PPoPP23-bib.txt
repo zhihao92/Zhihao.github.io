@@ -1,0 +1,7 @@
+@inproceedings{li2023generating,
+  title={Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics},
+  author={Li, Zhihao and Jia, Haipeng and Zhang, Yunquan and Sun, Yuyan and Zhang, Yiwei and Chen, Tun},
+  booktitle={Proceedings of the 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming},
+  pages={427--428},
+  year={2023}
+}

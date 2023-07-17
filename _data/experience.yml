@@ -23,14 +23,42 @@
   description: | # this will include new lines to allow paragraphs
 
     <ul  style="list-style-type:square;">
-          <li>
+
+      <li>
+        <b>OpenFFT: An Adaptive Tuning Framework for 3D FFT on ARM Multicore CPUs</b>
+        <br>
+            <span style="font-size:14px;color:#9E9E9E;">Tun Chen, Haipeng Jia, Yunquan Zhang, Kun Li, Zhihao Li, Xiang Zhao, Jianyu Yao, Chendi Li</span> <br>
+            <em style="font-size:14px; color:#757575;"><b>The 37th International Conference on Supercomputing (ICS)</b>, <time>2023.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF B)</strong></span>
+
+        <br>
+            <a href="https://dl.acm.org/doi/abs/10.1145/3577193.3593735" target="_blank">[paper]</a>
+            <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/ICS23-OpenFFT-bib.txt" target="_blank">[bib]</a>
+        <br>
+        <br>
+      </li>
+
+
+      <li>
+        <b>Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics</b>
+        <br>
+            <span style="font-size:14px;color:#9E9E9E;">Zhihao Li, Haipeng Jia, Yunquan Zhang, Yuyan Sun, Yiwei Zhang, Tun Chen</span>
+        <br>
+            <em style="font-size:14px; color:#757575;"><b>The 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP, Poster)</b>, <time>2023.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A)</strong></span>
+        <br>
+
+            <a href="https://dl.acm.org/doi/abs/10.1145/3572848.3577477" target="_blank">[paper]</a>
+            <a href="https://raw.githubusercontent.com/zhihao92/zhihao.github.io/master/publications/PPoPP23-bib.txt" target="_blank">[bib]</a>
+        <br>
+
+        <br>
+      </li>
+
+      <li>
         <b>A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs</b>
         <br>
-            <span style="font-size:14px;color:#9E9E9E;">Tun Chen, Haipeng Jia,</span>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Yunquan Zhang</span> <br>
-
-            <em style="font-size:14px; color:#757575;"><b>International Conferences on High Performance Computing and Communications (HPCC)</b>, <time>2021.</time> </em><span style="font-size:14px;color:#757575;"></span>
+            <span style="font-size:14px;color:#9E9E9E;">Tun Chen, Haipeng Jia, Zhihao Li, Yunquan Zhang</span>
+        <br>
+            <em style="font-size:14px; color:#757575;"><b>International Conferences on High Performance Computing and Communications (HPCC)</b>, <time>2021.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF C)</strong></span>
 
         <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/9780864" target="_blank">[paper]</a>
@@ -43,8 +71,7 @@
       <li>
         <b>Automatic Generation of High-Performance FFT Kernels on Arm and X86 CPUs</b>
         <br>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Richard Vuduc</span>
+            <span style="font-size:14px;color:#9E9E9E;">Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Richard Vuduc</span>
         <br>
             <em style="font-size:14px; color:#757575;"><b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>, <time>2020.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A)</strong></span>
         <br>
@@ -59,8 +86,7 @@
       <li>
         <b>AutoFFT: A Template-Based FFT Codes Auto-Generation Framework for ARM and X86 CPUs</b>
         <br>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, Xiao Wang</span>
+            <span style="font-size:14px;color:#9E9E9E;">Zhihao Li, Haipeng Jia, Yunquan Zhang, Tun Chen, Liang Yuan, Luning Cao, Xiao Wang</span>
         <br>
             <em style="font-size:14px; color:#757575;"><b>ACM/IEEE International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC)</b>, <time>2019.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A)</strong></span>
         <br>
@@ -74,8 +100,7 @@
       <li>
         <b>Efficient Parallel Optimizations of a High-Performance SIFT on GPUs</b>
         <br>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, Hao Zhang</span>
+            <span style="font-size:14px;color:#9E9E9E;">Zhihao Li, Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, Hao Zhang</span>
         <br>
 
             <em style="font-size:14px; color:#757575;"><b>Journal of Parallel and Distributed Computing (JPDC)</b>, <time>2019.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF B)</strong></span><br>
@@ -90,9 +115,7 @@
         <b>Multi-Dimensional FFT Implementation and Optimization on ARMv8 Platform</b>
         <br>
 
-            <span style="font-size:14px;color:#9E9E9E;">Tun Chen,</span>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li<sup>*</sup></strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br>
+            <span style="font-size:14px;color:#9E9E9E;">Tun Chen, Zhihao Li, Haipeng Jia, Yunquan Zhang</span> <br>
 
             <em style="font-size:14px; color:#757575;"><b> Chinese Journal of Computer (In Chinese)</b>, <time>2019.</time> </em><span style="font-size:14px;color:#757575;"><strong>(CCF A; corresponding author)</strong></span><br>
 
@@ -105,9 +128,8 @@
       <li>
         <b>Implementation and Optimization of Multi-dimensional Real FFT on ARMv8 Platform</b>
         <br>
-            <span style="font-size:14px;color:#9E9E9E;">Xiao Wang, Haipeng Jia,</span>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Yunquan Zhang</span> <br>
+            <span style="font-size:14px;color:#9E9E9E;">Xiao Wang, Haipeng Jia, Zhihao Li, Yunquan Zhang</span>
+        <br>
 
             <em style="font-size:14px; color:#757575;"><b> International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</b>, <time>2018.</time> </em><span style="font-size:14px;color:#757575;"></span><br>
 
@@ -120,8 +142,7 @@
       <li>
         <b>HartSift: A High-Accuracy and Real-Time SIFT Based on GPU</b>
         <br>
-            <span style="font-size:14px;color:#424242;"><strong>Zhihao Li</strong>,</span>
-            <span style="font-size:14px;color:#9E9E9E;">Haipeng Jia, Yunquan Zhang</span> <br>
+            <span style="font-size:14px;color:#9E9E9E;">Zhihao Li, Haipeng Jia, Yunquan Zhang</span> <br>
 
             <em style="font-size:14px; color:#757575;"><b> IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)</b>, <time>2017.</time> </em><span style="font-size:14px;color:#757575;"></span>
         <br>
